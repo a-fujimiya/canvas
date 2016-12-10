@@ -1,0 +1,7 @@
+<resources>
+  <string name="app_name">Canvas</string>
+  <string name="action_clear">clear</string>
+  <string name="select_color_red">red</string>
+  <string name="select_color_green">green</string>
+  <string name="select_color_blue">blue</string>
+</resources>
